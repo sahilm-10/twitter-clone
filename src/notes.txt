@@ -1,0 +1,12 @@
+********* Sidebar functionalities
+- onHover turn blue
+- Pass component as a prop -> icon here ->use Es6
+-> text and Icon as arguments -> Icon as caps and {} -> for destructuring
+
+* we can pass icons / styling as props
+
+** for coloring same color throughout
+-> use global var in css in body
+-> !important for overriding
+
+by default app -> inline display one after other
