@@ -18,25 +18,25 @@ function Post({
   return (
     <div className='post'>
     <div className='post__avatar'>
-        <Avatar src="https://www.signivis.com/img/custom/avatars/member-avatar-01.png"/>
+        <Avatar src= {avatar}/>
     </div>
     <div className='post__body'>
     <div className='post__header'>
         <div className='post__headerText'>
             <h3>
-                Sahil Malgundkar {""}
+                {displayName} {""}
                 <span className='post__headerSpecial'>
                     <VerifiedUserIcon className="post__badge" />
-                    @sahil
+                    {userName}
                 </span>
                 
             </h3>
         </div>
         <div className='post__headerDescription'>
-            <p>I challenge you to build Twitter clone</p>
+            <p>{text}</p>
         </div>
         <div className="post__Image">
-            <img src="https://media2.giphy.com/media/RtdRhc7TxBxB0YAsK6/giphy.gif"/>
+            <img src={image}/>
         </div>
         <div className ="post__footer">
             <ChatBubbleOutlineIcon fontSize="small"/>

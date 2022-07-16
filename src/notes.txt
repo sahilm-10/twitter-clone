@@ -18,3 +18,8 @@ post -> passing it through props.
 
 npm i react-twitter-embed -> check docs
 
+hooks -> useState 
+useEffect -> piece of code that runs on a given condition
+
+
+onSnapshot -> anytime firebase collection is updated it gives a snapshot of the database.
