@@ -3,7 +3,6 @@ import "./TweetBox.css";
 import {Avatar , Button} from "@material-ui/core";
 // Avatar -> circled image
 
-
 function TweetBox() {
   return (
     <div className='tweetBox'>

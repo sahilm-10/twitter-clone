@@ -10,3 +10,7 @@
 -> !important for overriding
 
 by default app -> inline display one after other
+
+
+*********Post
+post -> passing it through props.

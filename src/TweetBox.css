@@ -17,9 +17,13 @@
     font-size: 20px;
     border: none;
 }
+/* .tweetBox > input{
+    border: var(--twitter-color);
+} */
 .tweetBox__imageInput{
     border: none;
     padding: 10px;
+    
 }
 .tweetBox__tweetButton{
     background-color: var(--twitter-color) !important;
