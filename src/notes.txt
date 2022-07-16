@@ -21,5 +21,8 @@ npm i react-twitter-embed -> check docs
 hooks -> useState 
 useEffect -> piece of code that runs on a given condition
 
-
+{} -> writing js code in b/we
+map -> for looping through docs
 onSnapshot -> anytime firebase collection is updated it gives a snapshot of the database.
+
+e.preventDefault -> prevents from refreshing
