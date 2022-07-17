@@ -29,3 +29,5 @@ e.preventDefault -> prevents from refreshing
 
 inorder to work correctly flipmove we need to give key as unique id.
 
+***************how to deploy to firebase ***********
+
